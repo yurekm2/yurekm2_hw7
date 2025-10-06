@@ -4,3 +4,12 @@ font-size: 16px;
 margin: 0;
 padding: 0;
 }
+
+h1 { 
+  color: blue;
+}
+
+img {
+  width: 100vw;
+  height: auto;
+}

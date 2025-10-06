@@ -5,6 +5,10 @@ margin: 0;
 padding: 0;
 }
 
+h1,p {
+  font-family: serif;
+}
+
 h1 { 
   color: blue;
 }
@@ -45,3 +49,4 @@ a:hover{
 a:active{
   color: orange;
 }
+
